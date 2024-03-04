@@ -1,3 +1,8 @@
 body {background-color: bisque; text-align: center;}
-h1 {color: azure; font-size: 40px;}
+h1 {color: rgb(251, 240, 255); font-size: 40px;}
 p {font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;}
+.picture {text-align: center; color: red; border: 2px solid blue; padding: .5em;}
+#para1 {text-align: center; color: aqua;}
+a:hover {
+    color: turquoise;
+}
