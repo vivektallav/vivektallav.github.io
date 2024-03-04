@@ -1,8 +1,8 @@
 body {background-color: bisque; text-align: center;}
 h1 {color: rgb(251, 240, 255); font-size: 40px;}
 p {font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;}
-.picture {text-align: center; color: red; border: 2px solid blue; padding: .5em;}
-#para1 {text-align: center; color: aqua;}
+.picture {text-align: center; color: red; border: 2px solid blue; padding: .5em; text-align: left;}
+#para1 {text-align: center; color: rgb(43, 255, 0); font-weight: bold;}
 a:hover {
     color: turquoise;
 }
